@@ -22,4 +22,5 @@
 ---
 
 Трёхмерные модели и чертежи находятся в папке проекта `Документы`.
-Разработано специально для [StandCat](https://gitverse.ru/ekotov/StandCat)
+
+Разработано специально для [StandCat](https://gitverse.ru/ekotov/StandCat).
