@@ -1,25 +1,18 @@
-# TableTopGatchina
-Классическая прямоугольная столешница
+# gatchina-ctop
 
-## Детали
-- для комфорта и безопасности острые углы скруглены
-- имеются три выреза для прохода кабельных трас под установку "стандартных" кабельных каналов
+Classic rectangular worktop
 
-## Документы
-![](/Images/SK.GATCHINA.4500.jpg)
+## Features
+- for comfort and safety, sharp corners are rounded
+- there are three cutouts for cable routing to install "standard" cable channels
+- the use of elbow supports is recommended
 
-## Изображения
-![](/Images/1.jpg)
-![](/Images/3.jpg)
-![](/Images/4.jpg)
-![](/Images/5.jpg)
-![](/Images/6.jpg)
+## Drawings
+![](/image/SK.GATCHINA.4500.jpg)
 
-## Особенности
-- рекомендуется использовать поддержки для локтей
-
----
-
-Трёхмерные модели и чертежи находятся в папке проекта `Docs`.
-
-Разработано специально для [StandCat](https://gitverse.ru/ekotov/StandCat).
+## Images
+![](/image/1.jpg)
+![](/image/3.jpg)
+![](/image/4.jpg)
+![](/image/5.jpg)
+![](/image/6.jpg)
